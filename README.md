@@ -1,2 +1,9 @@
-# BaseViewModel
-回调通过delegate实现
+# LBViewModel
+
+主要特点是将Model与ViewModel结合起来，这是一种思路，随后也将在更多实践中继续完善。另外ViewModel的回调使用的delegate。欢迎探讨。
+
+里面包含了一个测试用的例子，但是接口是聚合数据试用的接口，数据量很大，访问速度有些慢，理解后可以替换成自己的接口。
+
+
+
+
